@@ -8,7 +8,7 @@
             {
                 "label": "Cobalt-Customized",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme.json"
+                "path": "./themes/cobalt-customized-theme.json"
             }
         ]
     }
