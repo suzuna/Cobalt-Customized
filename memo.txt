@@ -1,6 +1,0 @@
-https://qiita.com/JunSuzukiJapan/items/1f19b440ad1d33cf4421
-https://code.visualstudio.com/api/get-started/your-first-extension
-
-https://creators.members.co.jp/2021/02/knowledge_007/
-https://code.visualstudio.com/api/references/theme-color
-https://wemo.tech/1065
