@@ -96,7 +96,7 @@
 		"notificationsErrorIcon.foreground": "#f85149",
 		"notificationsInfoIcon.foreground": "#58a6ff",
 		"notificationsWarningIcon.foreground": "#f0883e",
-		"panel.background": "#001b33",
+		"panel.background": "#002240",
 		"panel.border": "#30363d",
 		"panelInput.border": "#30363d",
 		"panelTitle.activeBorder": "#f78166",
