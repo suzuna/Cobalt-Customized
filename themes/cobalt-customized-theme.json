@@ -787,9 +787,8 @@
 				"markup.heading"
 			],
 			"settings": {
-				"foreground": "#FFDD00",
-				"background": "#001221",
-				"fontStyle": "bold"
+				"foreground": "#C8E4FD",
+				"background": "#001221"
 			}
 		},
 		{
@@ -798,8 +797,7 @@
 			],
 			"settings": {
 				"foreground": "#C8E4FD",
-				"background": "#001221",
-				"fontStyle": "bold"
+				"background": "#001221"
 			}
 		},
 		{
