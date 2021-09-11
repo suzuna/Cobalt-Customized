@@ -659,20 +659,6 @@
 		},
 		{
 			"scope": [
-				"storage.type",
-				"storage.modifier",
-				"support.type",
-				"meta.type.annotation",
-				"meta.return.type",
-				"meta.type entity.name.type",
-				"meta.return.type entity.name.type"
-			],
-			"settings": {
-				"foreground": "#FFEE80"
-			}
-		},
-		{
-			"scope": [
 				"keyword",
 				"keyword.operator",
 				"meta.function storage.type",
